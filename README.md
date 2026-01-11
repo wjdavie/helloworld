@@ -6,7 +6,7 @@ I created this program to demonstrate how to use Python in Visual Studio Code, a
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World Software Demo Video](https://youtu.be/HMurdm-u7R0)
 
 # Development Environment
 
